@@ -1,0 +1,20 @@
+{
+  "name": "ezy-calculator",
+  "version": "1.0.0",
+  "description": "A simple calculator with Typescript, Nodejs and Inquirer",
+  "type": "module",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Taha",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "typescript": "^5.5.0-dev.20240331"
+  }
+}
